@@ -51,8 +51,8 @@ To use the bomber type the following commands in Termux:
 ```
 pkg install git
 pkg install python
-git clone https://github.com/HUNTER11821/HuntBomber.git
-cd HuntBomber
+git clone https://github.com/Hunter11821/HUNTBOMBER.git
+cd HUNTBOMBER
 chmod +x HuntBomber.sh
 ./HuntBomber.sh
 ```
@@ -69,7 +69,7 @@ Commands below provide instructions for Debian-based systems.
 To use the bomber type the following commands in Linux terminal:
 ```
 sudo apt install git
-git clone https://github.com/HUNTER11821/HuntBomber.git
+git clone https://github.com/Hunter11821/HUNTBOMBER.git
 cd HUNTBOMBER
 chmod +x HuntBomber.sh
 sudo bash HuntBomber.sh
